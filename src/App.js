@@ -21,7 +21,7 @@ const App=()=> {
 
     return (
         <div className="App">
-            <Welcome name="Yusfa Julian"/>
+            <MyButton name="Yusfa Julian"/>
         </div>
 
         // <div className="App">
